@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://devnitish.github.io/hugo-nicknet/'
 languageCode = 'en-us'
 title = 'Nicknet'
 theme = 'hugo-PaperMod'
