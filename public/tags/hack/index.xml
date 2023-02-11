@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hack on Nicknet</title>
+    <link>http://example.org/tags/hack/</link>
+    <description>Recent content in Hack on Nicknet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Oct 2021 21:51:47 +0000</lastBuildDate><atom:link href="http://example.org/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Difference between Successful and Unsuccessful Blogger</title>
+      <link>http://example.org/posts/the-difference-between-successful-and-unsuccessful-blogger/</link>
+      <pubDate>Wed, 27 Oct 2021 21:51:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/the-difference-between-successful-and-unsuccessful-blogger/</guid>
+      <description>If you are starting a new blog or any creative pursuit, it is essential to have the right mindset. There will be many obstacles in the way, but having a clear mindset can ask as the North star and guide you in the right direction. And this is probably the most important difference between a successful and novice blogger.
+Let&amp;rsquo;s talk about the mindset of a successful blogger. What does that look like?</description>
+    </item>
+    
+    <item>
+      <title>How I met your mother Tutorial</title>
+      <link>http://example.org/posts/just-one-more-step-himym/</link>
+      <pubDate>Wed, 27 Oct 2021 11:14:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/just-one-more-step-himym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Data transfer from Computer</title>
+      <link>http://example.org/posts/wireless-data-transfer-from-computer/</link>
+      <pubDate>Fri, 17 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wireless-data-transfer-from-computer/</guid>
+      <description>If you use apps like &amp;ldquo;ShareIt&amp;rdquo; and &amp;ldquo;AirDroid&amp;rdquo; to transfer data from computer to mobile, then you must have noticed that the Transfer Speed is very low. So I found a way to transfer a large amount of data wirelessly by using an open-source tool call NodeJs. This method gives you a high-speed wireless data transfer experience.
+Not feeling like reading this? then, here is the YouTube video tutorial in which I have shown how you can transfer files wirelessly.</description>
+    </item>
+    
+    <item>
+      <title>How to run a website in a Subdomain in Digital Ocean</title>
+      <link>http://example.org/posts/how-to-run-a-website-in-a-subdomain-in-digital-ocean/</link>
+      <pubDate>Tue, 14 Sep 2021 02:48:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/how-to-run-a-website-in-a-subdomain-in-digital-ocean/</guid>
+      <description>If you have a website and a single domain and a Digital Ocean&amp;rsquo;s droplet, and if you want to run the other website on a subdomain, then congratulations, you are at the right place.
+I started my blog about 3 years ago using NodeJs, AngularJs, and a bunch of other technologies. I used Heroku free account to host it. But the bootup time for a free account in Heroku is so long that it used to annoy me, let alone the visitors on my site.</description>
+    </item>
+    
+  </channel>
+</rss>

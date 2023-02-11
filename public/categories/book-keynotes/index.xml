@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Book Keynotes on Nicknet</title>
+    <link>http://example.org/categories/book-keynotes/</link>
+    <description>Recent content in Book Keynotes on Nicknet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Sep 2021 02:35:04 +0000</lastBuildDate><atom:link href="http://example.org/categories/book-keynotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ready Player One</title>
+      <link>http://example.org/posts/ready-player-one/</link>
+      <pubDate>Sat, 18 Sep 2021 02:35:04 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ready-player-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master the Skills for Success in Life, Business, and School</title>
+      <link>http://example.org/posts/master-the-skills-for-success/</link>
+      <pubDate>Tue, 14 Sep 2021 12:40:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/master-the-skills-for-success/</guid>
+      <description>What’s in it for me? Learn to learn better. It is believed that if you want to be a master in your field, you have to be a born genius, have an outstanding memory, or, a least, be willing to become a bookworm. Right?Well, not quite. You don’t have to next Einstein or Newton to become an efficient learner. All you need is a set of specific skills to master the art of learning.</description>
+    </item>
+    
+    <item>
+      <title>7 Life-Changing Books</title>
+      <link>http://example.org/posts/7-life-changing-books/</link>
+      <pubDate>Tue, 14 Sep 2021 11:50:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/7-life-changing-books/</guid>
+      <description>“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” – George R.R. Martin
+Books are the best way to learn from the best people who walked the Earth. Think of this in this way, a man who publishes a book spends decades before writing it down. And he puts down the best learning he had in those days. So by reading a book, you get the exact knowledge in just a couple of days.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Nicknet'
-theme = 'hugo-paperMod'
+theme = 'hugo-PaperMod'
 color = 'gray'
 rss = true   
 

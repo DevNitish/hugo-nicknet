@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nicknet</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Nicknet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Oct 2021 21:51:47 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Difference between Successful and Unsuccessful Blogger</title>
+      <link>http://example.org/posts/the-difference-between-successful-and-unsuccessful-blogger/</link>
+      <pubDate>Wed, 27 Oct 2021 21:51:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/the-difference-between-successful-and-unsuccessful-blogger/</guid>
+      <description>If you are starting a new blog or any creative pursuit, it is essential to have the right mindset. There will be many obstacles in the way, but having a clear mindset can ask as the North star and guide you in the right direction. And this is probably the most important difference between a successful and novice blogger.
+Let&amp;rsquo;s talk about the mindset of a successful blogger. What does that look like?</description>
+    </item>
+    
+    <item>
+      <title>How I met your mother Tutorial</title>
+      <link>http://example.org/posts/just-one-more-step-himym/</link>
+      <pubDate>Wed, 27 Oct 2021 11:14:16 +0000</pubDate>
+      
+      <guid>http://example.org/posts/just-one-more-step-himym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms To Live By</title>
+      <link>http://example.org/posts/algorithms-to-live-by/</link>
+      <pubDate>Sat, 18 Sep 2021 09:35:52 +0000</pubDate>
+      
+      <guid>http://example.org/posts/algorithms-to-live-by/</guid>
+      <description>Let’s take a second to think about that smartphone or tablet in front of you. How does it “think”? For instance, how does it “know” how to handle a heap of data and present it to you as the blinks you’re reading – or listening to – right now? The answer, of course, is that a series of instructions – or, in other words, an algorithm – enables it to do this.</description>
+    </item>
+    
+    <item>
+      <title>Ready Player One</title>
+      <link>http://example.org/posts/ready-player-one/</link>
+      <pubDate>Sat, 18 Sep 2021 02:35:04 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ready-player-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Data transfer from Computer</title>
+      <link>http://example.org/posts/wireless-data-transfer-from-computer/</link>
+      <pubDate>Fri, 17 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wireless-data-transfer-from-computer/</guid>
+      <description>If you use apps like &amp;ldquo;ShareIt&amp;rdquo; and &amp;ldquo;AirDroid&amp;rdquo; to transfer data from computer to mobile, then you must have noticed that the Transfer Speed is very low. So I found a way to transfer a large amount of data wirelessly by using an open-source tool call NodeJs. This method gives you a high-speed wireless data transfer experience.
+Not feeling like reading this? then, here is the YouTube video tutorial in which I have shown how you can transfer files wirelessly.</description>
+    </item>
+    
+    <item>
+      <title>What are the things that I must do when I am a teenager?</title>
+      <link>http://example.org/posts/things-to-do-as-a-teenager/</link>
+      <pubDate>Tue, 14 Sep 2021 23:11:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/things-to-do-as-a-teenager/</guid>
+      <description>We could go on and on this topic, but the short answer is &amp;ldquo;Start Now.&amp;rdquo;
+What we mean by that in a way that would probably benefit you, even if you&amp;rsquo;re not a teenager. This is a perfect time to start your road to living a successful life. You&amp;rsquo;re not paying rent. You&amp;rsquo;ve got so much time on your hands that if you start now, you&amp;rsquo;ll get a massive advantage over everyone else.</description>
+    </item>
+    
+    <item>
+      <title>Master the Skills for Success in Life, Business, and School</title>
+      <link>http://example.org/posts/master-the-skills-for-success/</link>
+      <pubDate>Tue, 14 Sep 2021 12:40:57 +0000</pubDate>
+      
+      <guid>http://example.org/posts/master-the-skills-for-success/</guid>
+      <description>What’s in it for me? Learn to learn better. It is believed that if you want to be a master in your field, you have to be a born genius, have an outstanding memory, or, a least, be willing to become a bookworm. Right?Well, not quite. You don’t have to next Einstein or Newton to become an efficient learner. All you need is a set of specific skills to master the art of learning.</description>
+    </item>
+    
+    <item>
+      <title>7 Life-Changing Books</title>
+      <link>http://example.org/posts/7-life-changing-books/</link>
+      <pubDate>Tue, 14 Sep 2021 11:50:38 +0000</pubDate>
+      
+      <guid>http://example.org/posts/7-life-changing-books/</guid>
+      <description>“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” – George R.R. Martin
+Books are the best way to learn from the best people who walked the Earth. Think of this in this way, a man who publishes a book spends decades before writing it down. And he puts down the best learning he had in those days. So by reading a book, you get the exact knowledge in just a couple of days.</description>
+    </item>
+    
+    <item>
+      <title>How to run a website in a Subdomain in Digital Ocean</title>
+      <link>http://example.org/posts/how-to-run-a-website-in-a-subdomain-in-digital-ocean/</link>
+      <pubDate>Tue, 14 Sep 2021 02:48:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/how-to-run-a-website-in-a-subdomain-in-digital-ocean/</guid>
+      <description>If you have a website and a single domain and a Digital Ocean&amp;rsquo;s droplet, and if you want to run the other website on a subdomain, then congratulations, you are at the right place.
+I started my blog about 3 years ago using NodeJs, AngularJs, and a bunch of other technologies. I used Heroku free account to host it. But the bootup time for a free account in Heroku is so long that it used to annoy me, let alone the visitors on my site.</description>
+    </item>
+    
+    <item>
+      <title>Terms and conditions</title>
+      <link>http://example.org/posts/terms-and-conditions/</link>
+      <pubDate>Thu, 09 Sep 2021 21:07:53 +0000</pubDate>
+      
+      <guid>http://example.org/posts/terms-and-conditions/</guid>
+      <description>These terms and conditions (&amp;ldquo;Terms&amp;rdquo;, &amp;ldquo;Agreement&amp;rdquo;) are an agreement between Website Operator (&amp;ldquo;Website Operator&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) and you (&amp;ldquo;User&amp;rdquo;, &amp;ldquo;you&amp;rdquo; or &amp;ldquo;your&amp;rdquo;). This Agreement sets forth the general terms and conditions of your use of the nicknetvideos.com website and any of its products or services (collectively, &amp;ldquo;Website&amp;rdquo; or &amp;ldquo;Services&amp;rdquo;).
+Backups We are not responsible for Content residing on the Website. In no event shall we be held liable for any loss of any Content.</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://example.org/posts/privacy-2/</link>
+      <pubDate>Sat, 04 Sep 2021 23:47:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/privacy-2/</guid>
+      <description>At Nicknet Videos, accessible from www.nicknetvideos.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Nicknet Videos and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at nitishasgrylls@gmail.com
+Log Files Nicknet Videos follows a standard procedure of using log files.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://example.org/posts/contact-2/</link>
+      <pubDate>Sat, 04 Sep 2021 23:46:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/contact-2/</guid>
+      <description>&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;col s12 m6 mb-8&amp;quot;&amp;gt; &amp;lt;input name=&amp;quot;name&amp;quot; type=&amp;quot;text&amp;quot; placeholder=&amp;quot;Your Name&amp;quot; required&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;col s12 m6 mb-8&amp;quot;&amp;gt; &amp;lt;input name=&amp;quot;email&amp;quot; type=&amp;quot;email&amp;quot; placeholder=&amp;quot;Your Email&amp;quot; required&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;col s12 mb-8&amp;quot;&amp;gt; &amp;lt;input name=&amp;quot;subject&amp;quot; type=&amp;quot;subject&amp;quot; placeholder=&amp;quot;Enter Subject&amp;quot; required&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;col s12 mb-8&amp;quot;&amp;gt;&amp;lt;textarea name=&amp;quot;message&amp;quot; placeholder=&amp;quot;Type Message&amp;quot; required&amp;gt;&amp;lt;/textarea&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;col s12 text-center mb-10&amp;quot;&amp;gt;&amp;lt;button type=&amp;quot;submit&amp;quot; class=&amp;quot;button is-primary&amp;quot;&amp;gt;Send Message&amp;lt;/button&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; Here&amp;rsquo;s how to reach us!
+@NicknetVideos on Twitter
+@NicknetVideos on Facebook</description>
+    </item>
+    
+  </channel>
+</rss>
