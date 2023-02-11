@@ -12,7 +12,7 @@ title = "The Difference between Successful and Unsuccessful Blogger"
 +++
 
 
-If you are starting a new blog or any creative pursuit, it is essential to have the right mindset. There will be many obstacles in the way, but having a clear mindset can ask as the North star and guide you in the right direction. And this is probably the most important difference between a successful and novice blogger.
+If you guys are starting a new blog or any creative pursuit, it is essential to have the right mindset. There will be many obstacles in the way, but having a clear mindset can ask as the North star and guide you in the right direction. And this is probably the most important difference between a successful and novice blogger.
 
 Let's talk about the mindset of a successful blogger. What does that look like? And how can you set yourself up for success by getting into the right mindset?
 
